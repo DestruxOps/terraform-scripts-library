@@ -1,2 +1,2 @@
-# terrraform-scripts-library
+# terraform-scripts-library
 Terraform Scripts Library
